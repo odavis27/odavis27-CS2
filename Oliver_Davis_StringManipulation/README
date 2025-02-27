@@ -1,0 +1,25 @@
+The accual code for the functions is located in the file "stringManipulationFunctions.py".
+If you would like to easily test the functions, follow the steps below. Alternatively,
+if you want to test a specific function or to test a the function's output without the adjustments to make the output look nicer, you can call a function directly in the "stringManipulationFunctions.py" file.
+
+How to easily test the functions:
+    In order to save some time testing the functions I made a file which will run all the functions. To use the testing file,open the file "test_functions.py" and then run the file.
+    
+    Upon running it, you will be prompted to input "word" or "name". 
+
+    When inserting "word" you will be asked again for a word. Then, the following functions will be ran on input word and will format the output to look better:
+        - reverse
+        - get_vowels
+        - get_consonants
+        - uppercase
+        - lowercase
+    When inserting "name" you will be asked again for a name. Then, the following functions will be ran on input name and format the output to look better.
+        - get_first_name
+        - get_last_name
+        - get_middle_name
+        - contains_title
+        - last_name_contains_hyphen
+        - randomize_name
+        - is_first_name_palindrome
+        - get_initials
+        - get_sorted_first_name
